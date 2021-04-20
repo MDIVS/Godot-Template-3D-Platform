@@ -1,0 +1,39 @@
+# Written by MakeHuman 1.2.0 final
+version v1.2.0
+camera 18.0 232.5 0.18207576066683637 0.8275994825469334 -0.1051861975015667 0.4125000000000001
+modifier head/head-fat-decr|incr -0.270000
+modifier head/head-invertedtriangular 0.437000
+modifier torso/torso-scale-depth-decr|incr -0.350000
+modifier torso/torso-muscle-dorsi-decr|incr -0.620000
+modifier stomach/stomach-tone-decr|incr 1.000000
+modifier pelvis/pelvis-tone-decr|incr 0.366000
+modifier breast/BreastSize 0.683000
+modifier breast/BreastFirmness 1.000000
+modifier breast/breast-trans-down|up 1.000000
+modifier breast/breast-dist-decr|incr -0.206000
+modifier breast/nipple-size-decr|incr -1.000000
+modifier breast/nipple-point-decr|incr -0.428000
+modifier macrodetails/Gender 0.000000
+modifier macrodetails/Age 0.500000
+modifier macrodetails/African 1.000000
+modifier macrodetails/Asian 0.000000
+modifier macrodetails/Caucasian 0.000000
+modifier macrodetails-universal/Muscle 0.754000
+modifier macrodetails-universal/Weight 0.500000
+modifier macrodetails-height/Height 0.500000
+modifier macrodetails-proportions/BodyProportions 0.500000
+modifier measure/measure-neck-height-decr|incr -0.077515
+modifier measure/measure-upperarm-circ-decr|incr 0.389617
+modifier measure/measure-upperarm-length-decr|incr -0.248936
+modifier measure/measure-lowerarm-length-decr|incr -0.249906
+modifier measure/measure-waisttohip-dist-decr|incr -0.366000
+modifier measure/measure-shoulder-dist-decr|incr -1.000000
+modifier measure/measure-upperleg-height-decr|incr -0.129948
+modifier measure/measure-thigh-circ-decr|incr -0.286000
+skeleton game_engine.mhskel
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+pose standing02.bvh
+clothesHideFaces True
+skinMaterial skins/young_caucasian_female/young_caucasian_female_special_suit.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
